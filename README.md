@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## In the project directory, install all the dependencies.
+
+### `yarn install`
+
+## Setting up JSON server.
+
+Go to json-server directory
+
+### `json-server --watch db.json --port 3001`
+
 ## Available Scripts
 
 In the project directory, you can run:
